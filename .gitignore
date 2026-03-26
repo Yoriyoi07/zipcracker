@@ -1,0 +1,12 @@
+# Security: Never upload database or key files
+*.db
+*.key
+
+# PyInstaller Build Folders
+/build/
+/dist/
+*.spec
+
+# Python Cache
+__pycache__/
+*.pyc
